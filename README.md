@@ -1,5 +1,3 @@
-<include a CircleCI status badge, here>
-
 [![CircleCI](https://circleci.com/gh/abshaheen/Udacity_Devops_Microservices.svg?style=svg)](https://circleci.com/gh/abshaheen/Udacity_Devops_Microservices)
 
 ## Project Overview
